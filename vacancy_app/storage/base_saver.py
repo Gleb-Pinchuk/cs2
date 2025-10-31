@@ -2,6 +2,7 @@ from abc import ABC, abstractmethod
 from typing import List, Callable, Any
 from vacancy_app.models.vacancy import Vacancy
 
+
 class BaseSaver(ABC):
     """Абстрактный интерфейс для хранения вакансий."""
 
