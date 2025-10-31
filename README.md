@@ -20,6 +20,14 @@
 
 1. Клонируйте репозиторий:
 
+https://github.com/Gleb-Pinchuk/cs2/pull/1
+
+pip install poetry
+
+poetry install
+
+=======
+
 
 pip install poetry
 poetry install
